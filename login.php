@@ -1,4 +1,4 @@
-<form name="login_form" action="./login_db.php" method="POST">
+<form name="login_form" action="./login_db_s.php" method="POST">
       <div class="login_form_top">
         <h1>LOGIN</h1>
         <p>UserID、Passwordをご入力の上、「LOGIN」ボタンをクリックしてください。</p>
