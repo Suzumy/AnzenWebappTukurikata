@@ -12,9 +12,9 @@ $user = $stmt -> fetch();
 var_dump($user);
 
 if(empty($user) == true){
-    header("Location: http://localhost/4_kojin/login.php");
+    header("Location: http://localhost/AnzenWebAppTukurikata/login.php");
 }else{
-    header("Location: http://localhost/4_kojin/index.php");
+    header("Location: http://localhost/AnzenWebAppTukurikata/index.php");
 }
 
 ?>
